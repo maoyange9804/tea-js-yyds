@@ -1,0 +1,22 @@
+{
+  "name": "tea-js-yyds",
+  "version": "1.0.1",
+  "description": "tea nb plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoyange9804/tea-js-yyds.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "maoyange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maoyange9804/tea-js-yyds/issues"
+  },
+  "homepage": "https://github.com/maoyange9804/tea-js-yyds#readme"
+}
